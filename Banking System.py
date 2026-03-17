@@ -1,4 +1,4 @@
-print(' yguyouygo')
+print('  ')
 
 print('                                     ### BANKING SYSTEM ###')
 print(' ')
